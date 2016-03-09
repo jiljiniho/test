@@ -1,3 +1,4 @@
 add some texts
 rdd some locale texts
-add some promote texts
+add some promote text
+add some more texts
